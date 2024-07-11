@@ -1,2 +1,1 @@
-# effinity
-A simple text and code editor in the browser
+![Banner](assets/banner.png "Effenity banner")
